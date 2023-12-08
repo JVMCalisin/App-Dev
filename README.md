@@ -6,8 +6,8 @@ My First reposity
 
 ### ABOUT ME
 **Favorite Anime Series**
-1. Genshin Impact ![image](https://github.com/JVMCalisin/App-Dev/assets/153254935/0e9361de-64be-44f4-872c-9ba64baa6894)
-
+1. Genshin Impact
+   ![image](https://github.com/JVMCalisin/App-Dev/assets/153254935/0e9361de-64be-44f4-872c-9ba64baa6894)
 2. Honkai Impact 3rd
 3. Honkai Star Rail
 4. BOFURI
