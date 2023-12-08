@@ -6,7 +6,7 @@ My First reposity
 
 ## ABOUT ME 🙋‍♂️🧡
 # 🧰Programming Language
-![image](https://github.com/JVMCalisin/App-Dev/assets/153254935/67a7836c-080f-4ce7-b1bb-1041a26dd537) ![image](https://github.com/JVMCalisin/App-Dev/assets/153254935/6c3e68af-48ac-4591-8e42-7cf4a0fed77c) ![image](https://github.com/JVMCalisin/App-Dev/assets/153254935/bc6cb359-d35f-4548-958e-3038d38b862a)
+![image](https://github.com/JVMCalisin/App-Dev/assets/153254935/67a7836c-080f-4ce7-b1bb-1041a26dd537)![image](https://github.com/JVMCalisin/App-Dev/assets/153254935/6c3e68af-48ac-4591-8e42-7cf4a0fed77c)![image](https://github.com/JVMCalisin/App-Dev/assets/153254935/bc6cb359-d35f-4548-958e-3038d38b862a)
 
 
 
