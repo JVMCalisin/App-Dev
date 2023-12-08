@@ -22,10 +22,15 @@ My First reposity
 
 ![salute-military](https://github.com/JVMCalisin/App-Dev/assets/153254935/b6081aec-77b9-4e98-b105-77298e3fa539)
 
-
+5. Eminence in Shadow
    
-8. Eminence in Shadow
-9. GATE
+![ak-brr](https://github.com/JVMCalisin/App-Dev/assets/153254935/d71fad71-520d-4797-b427-8c2f43e64d9c)
+
+6. Frieren: Beyond Journey’s End
+    
+![kiss-blow-kiss](https://github.com/JVMCalisin/App-Dev/assets/153254935/ce5a47da-2547-4dd1-bc8c-1be929b86ce8)
+
+
 ```
 {
 public class IntroductionJava {
