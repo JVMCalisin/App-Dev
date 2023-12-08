@@ -22,7 +22,7 @@ public class IntroductionJava {
 ```
 
 
-**Favorite Anime Series**
+**Favorite Anime Series🧡👌**
 1. Genshin Impact
 
 ![baal-genshin-impact](https://github.com/JVMCalisin/App-Dev/assets/153254935/90f5b875-29d5-4aa0-9002-02b9a54ba2ae)
