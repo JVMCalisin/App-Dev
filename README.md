@@ -8,7 +8,7 @@ My First reposity
 **Favorite Anime Series**
 1. Genshin Impact
 
-![lumine-hi-omg-hi](https://github.com/JVMCalisin/App-Dev/assets/153254935/da0ddbd0-82fe-4de1-bca4-ba8e37b23ac6) ![geo-genshin-eula](https://github.com/JVMCalisin/App-Dev/assets/153254935/75b9d991-129c-4b25-9979-fadd3c2e3a47)
+![baal-genshin-impact](https://github.com/JVMCalisin/App-Dev/assets/153254935/90f5b875-29d5-4aa0-9002-02b9a54ba2ae)
 
 
 3. 
