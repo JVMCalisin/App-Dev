@@ -10,15 +10,22 @@ My First reposity
 
 ![baal-genshin-impact](https://github.com/JVMCalisin/App-Dev/assets/153254935/90f5b875-29d5-4aa0-9002-02b9a54ba2ae)
 
-
 2. Honkai Impact 3rd
 
 ![hov-honkaiimpact](https://github.com/JVMCalisin/App-Dev/assets/153254935/9d5b3ea2-59e6-4f03-a292-3e9814ed4678)
 
-5. Honkai Star Rail
-6. BOFURI
-7. Eminence in Shadow
-8. GATE
+3. Honkai Star Rail
+
+![silver-wolf-bronya](https://github.com/JVMCalisin/App-Dev/assets/153254935/65f9e068-237e-49d1-a5f4-75a25e591f4c)
+
+4. Attack on Titan
+
+![salute-military](https://github.com/JVMCalisin/App-Dev/assets/153254935/b6081aec-77b9-4e98-b105-77298e3fa539)
+
+
+   
+8. Eminence in Shadow
+9. GATE
 ```
 {
 public class IntroductionJava {
