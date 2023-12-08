@@ -7,11 +7,15 @@ My First reposity
 ### ABOUT ME
 **Favorite Anime Series**
 1. Genshin Impact
-2. Honkai Impact 3rd
-3. Honkai Star Rail
-4. BOFURI
-5. Eminence in Shadow
-6. GATE
+
+![lumine-hi-omg-hi](https://github.com/JVMCalisin/App-Dev/assets/153254935/da0ddbd0-82fe-4de1-bca4-ba8e37b23ac6)
+
+3. 
+4. Honkai Impact 3rd
+5. Honkai Star Rail
+6. BOFURI
+7. Eminence in Shadow
+8. GATE
 ```
 {
 public class IntroductionJava {
