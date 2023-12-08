@@ -1,10 +1,10 @@
-## App-Dev
+# App-Dev
 My First reposity
 
 
 ![bocchi-bocchi-the-rock (1)](https://github.com/JVMCalisin/App-Dev/assets/153254935/e2c1358d-b8fb-4a47-abca-e0ca06c392ec)
 
-### ABOUT ME
+## ABOUT ME
 **Favorite Anime Series**
 1. Genshin Impact
 
