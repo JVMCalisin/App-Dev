@@ -9,4 +9,4 @@ My First reposity
   "age": 20
 }
 ~~Mei Sempai.~~
-Traveler|Trailblazer|Sensei|Dokutah==.
+Traveler|Trailblazer|Sensei|Dokutah==
