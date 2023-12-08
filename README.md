@@ -17,7 +17,6 @@ My First reposity
   "Section": "BSIT 504"
 }
 ```
-
-![324887358_570603278297592_6795385598439073063_n](https://github.com/JVMCalisin/App-Dev/assets/153254935/31cde0b8-e8d5-42de-9874-920fc6ddceb1)
+![image](https://github.com/JVMCalisin/App-Dev/assets/153254935/515c7325-604d-4499-8aa0-2c761dd7739c)
 
 *Traveler|Trailblazer|Sensei|Dokutah*
