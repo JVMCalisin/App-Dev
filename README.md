@@ -8,12 +8,14 @@ My First reposity
 4. BOFURI
 5. Eminence in Shadow
 6. GATE
-`
+```
+
 {
   "firstName": "John",
   "lastName": "Calisin",
   "age": 20,
   "Section": "BSIT 504"
 }
-`
+```
+
 *Traveler|Trailblazer|Sensei|Dokutah*
