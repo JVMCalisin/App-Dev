@@ -12,10 +12,6 @@ My First reposity
 ![image](https://github.com/JVMCalisin/App-Dev/assets/153254935/1fa2ab98-ce16-48a3-884e-5f1c4dd0f782)![image](https://github.com/JVMCalisin/App-Dev/assets/153254935/e19df7af-4f3d-49eb-b82f-90ea407c2d34)![image](https://github.com/JVMCalisin/App-Dev/assets/153254935/1f307ef6-cd1f-4c06-806d-591f545044f9)![image](https://github.com/JVMCalisin/App-Dev/assets/153254935/50b3a9fa-5eaa-499b-bae9-844b453095ee)![image](https://github.com/JVMCalisin/App-Dev/assets/153254935/ac4bd9b4-a894-4982-8351-d78477ee5e81)
 
 
-
-
-
-
 ```
 {
 public class IntroductionJava {
