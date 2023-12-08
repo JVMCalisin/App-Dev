@@ -1,5 +1,7 @@
 # App-Dev
 My First reposity
+![bocchi-bocchi-the-rock (1)](https://github.com/JVMCalisin/App-Dev/assets/153254935/e2c1358d-b8fb-4a47-abca-e0ca06c392ec)
+
 ### ABOUT ME
 **Favorite Anime Series**
 1. Genshin Impact 
@@ -17,6 +19,6 @@ My First reposity
   "Section": "BSIT 504"
 }
 ```
-![image](https://github.com/JVMCalisin/App-Dev/assets/153254935/515c7325-604d-4499-8aa0-2c761dd7739c)
+![324887358_570603278297592_6795385598439073063_n](https://github.com/JVMCalisin/App-Dev/assets/153254935/787704bd-2175-45e6-bb1d-10e8d286ce75)
 
 *Traveler|Trailblazer|Sensei|Dokutah*
