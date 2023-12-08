@@ -1,4 +1,4 @@
-![geo-genshin-eula](https://github.com/JVMCalisin/App-Dev/assets/153254935/4504f72d-cfce-44f3-b80e-c15ee2f1e7be)# App-Dev
+## App-Dev
 My First reposity
 
 
