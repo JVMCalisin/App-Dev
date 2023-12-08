@@ -1,4 +1,4 @@
-# App-Dev
+![geo-genshin-eula](https://github.com/JVMCalisin/App-Dev/assets/153254935/4504f72d-cfce-44f3-b80e-c15ee2f1e7be)# App-Dev
 My First reposity
 
 
@@ -8,7 +8,8 @@ My First reposity
 **Favorite Anime Series**
 1. Genshin Impact
 
-![lumine-hi-omg-hi](https://github.com/JVMCalisin/App-Dev/assets/153254935/da0ddbd0-82fe-4de1-bca4-ba8e37b23ac6)
+![lumine-hi-omg-hi](https://github.com/JVMCalisin/App-Dev/assets/153254935/da0ddbd0-82fe-4de1-bca4-ba8e37b23ac6) ![geo-genshin-eula](https://github.com/JVMCalisin/App-Dev/assets/153254935/75b9d991-129c-4b25-9979-fadd3c2e3a47)
+
 
 3. 
 4. Honkai Impact 3rd
